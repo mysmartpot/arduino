@@ -1,0 +1,3 @@
+[submodule "libraries/ArduinoBLE"]
+	path = libraries/ArduinoBLE
+	url = git@github.com:arduino-libraries/ArduinoBLE.git
